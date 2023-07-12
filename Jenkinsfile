@@ -1,4 +1,4 @@
-@Library('shared_lib@alpha-test') _
+@Library('shared_lib') _
 //kubeDeployPipeline() 
 //kubeDeployArgoPipeline()
 DockerEcsDeploy()
